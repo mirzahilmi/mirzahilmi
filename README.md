@@ -5,7 +5,7 @@
 🏫 &nbsp; Sophomore majoring in Information Technology at Faculty of Computer Science, University of Brawijaya<br>
 📌 &nbsp; Currently active in one of [IDREN](https://idren.id/) project and Community service projects<br>
 📝 &nbsp; Learning more about Distributed System & Cloud Computing<br>
-📂 &nbsp; Most of my projects are available on [Github](https://github.com/MirzaHilmi?tab=repositories)<br>
+📂 &nbsp; Most of my projects are available on [GitHub](https://github.com/MirzaHilmi?tab=repositories)<br>
 🏄‍♂️ &nbsp; In my free time, I enjoy swimming, adventure and exploring culinary delights!<br>
 
 ## 🔧 Technologies & Tools
