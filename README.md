@@ -34,17 +34,17 @@
 [![Tools 2](https://skillicons.dev/icons?i=linux,md)](https://github.com/MirzaHilmi)
 ### 📊 GitHub Stats
 <a href="https://github.com/MirzaHilmi/">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MirzaHilmi&theme=nord&show_icons=true&count_private=true" style="width: 50dvw"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MirzaHilmi&theme=nord&show_icons=true&count_private=true"/>
 </a>
 <br>
 
 <a href="https://github.com/MirzaHilmi/">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MirzaHilmi&theme=nord_dark" style="width: 50dvw"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MirzaHilmi&theme=nord_dark"/>
 </a>
 <br>
 
 <a href="https://github.com/MirzaHilmi/">
-    <img src="https://streak-stats.demolab.com/?user=MirzaHilmi&theme=nord&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border" style="width: 50dvw"/>
+    <img src="https://streak-stats.demolab.com/?user=MirzaHilmi&theme=nord&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border"/>
 </a>
 <br>
 
