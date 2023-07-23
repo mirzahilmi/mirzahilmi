@@ -26,7 +26,8 @@
 </p>
 
 ## 💻 Tech Stack
-[![Tech Stack 1](https://skillicons.dev/icons?i=java,go,php,js,laravel,supabase)](https://github.com/MirzaHilmi)
+[![Tech Stack 1](https://skillicons.dev/icons?i=java,go,php,js,laravel)](https://github.com/MirzaHilmi)
+[Mux Logo](art/mux.png)
 [![Tech Stack 2](https://skillicons.dev/icons?i=redis,mysql,postgres,git,docker)](https://github.com/MirzaHilmi)
 
 ## 🧰 Tools
