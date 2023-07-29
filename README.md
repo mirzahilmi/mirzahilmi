@@ -26,27 +26,29 @@
 </p>
 
 ## 💻 Tech Stack
-[![Tech Stack 1](https://skillicons.dev/icons?i=java,go,js,php,laravel,supabase)](https://skillicons.dev)
-[![Tech Stack 2](https://skillicons.dev/icons?i=redis,mysql,postgres,git,docker)](https://skillicons.dev)
+[![Tech Stack 1](https://skillicons.dev/icons?i=java,go,php,js,laravel,supabase)](https://github.com/MirzaHilmi)
+[![Tech Stack 2](https://skillicons.dev/icons?i=redis,mysql,postgres,git,docker)](https://github.com/MirzaHilmi)
 
 ## 🧰 Tools
-[![Tools](https://skillicons.dev/icons?i=idea,neovim,vscode,postman,bash,powershell)](https://skillicons.dev)
+[![Tools 1](https://skillicons.dev/icons?i=postman,vscode,idea,neovim,bash,powershell)](https://github.com/MirzaHilmi)
+[![Tools 2](https://skillicons.dev/icons?i=linux,md)](https://github.com/MirzaHilmi)
 ### 📊 GitHub Stats
 <a href="https://github.com/MirzaHilmi/">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MirzaHilmi&theme=discord_old_blurple&show_icons=true&count_private=true"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MirzaHilmi&theme=nord&show_icons=true&count_private=true"/>
 </a>
 <br>
 
 <a href="https://github.com/MirzaHilmi/">
-    <img src="https://streak-stats.demolab.com/?user=MirzaHilmi&theme=discord_old_blurple&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MirzaHilmi&theme=nord_dark"/>
 </a>
 <br>
 
 <a href="https://github.com/MirzaHilmi/">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MirzaHilmi&langs_count=10&layout=compact&theme=discord_old_blurple"/>
+    <img src="https://streak-stats.demolab.com/?user=MirzaHilmi&theme=nord&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border"/>
 </a>
 <br>
-<div>&nbsp;</div>
 
-![Metrics](https://metrics.lecoq.io/MirzaHilmi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta)<br>
-
+<a href="https://github.com/MirzaHilmi/">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MirzaHilmi&langs_count=10&layout=compact&theme=nord"/>
+</a>
+<br>
