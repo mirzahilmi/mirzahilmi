@@ -44,7 +44,7 @@
 <br>
 
 <a href="https://github.com/MirzaHilmi/">
-    <img src="https://streak-stats.demolab.com/?user=MirzaHilmi&theme=nord&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border"/>
+    <img src="https://streak-stats.demolab.com/?user=MirzaHilmi&theme=nord&sideNums=FFFFFF&currStreakNum=FFFFFF"/>
 </a>
 <br>
 
