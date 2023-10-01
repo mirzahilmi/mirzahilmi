@@ -26,7 +26,8 @@
 </p>
 
 ## 💻 Tech Stack
-<div style="display: flex; flex-wrap: wrap; max-width:500px">
+
+<div style="display: flex; flex-wrap: wrap; max-width: 500px">
     <img src="art/go.png" width="60"/>
     <img src="art/php.png" width="60"/>
     <img src="art/java.png" width="60"/>
@@ -43,7 +44,7 @@
     <img src="art/gin.png" width="60"/>
     <img src="art/postgresql.png" width="60"/>
     <img src="art/mysql.png" width="60"/>
-</a>
+</div>
 
 ## 🧰 Tools
 [![Tools 1](https://skillicons.dev/icons?i=postman,vscode,idea,neovim,bash,powershell)](https://github.com/MirzaHilmi)
