@@ -27,7 +27,7 @@
 
 ## 💻 Tech Stack
 <a href="#">
-    <div style="display: flex; flex-wrap: wrap; max-width: 500px">
+    <div style="display: flex; flex-wrap: wrap; width: 500px; max-width: 500px;">
         <img src="art/go.png" width="60"/>
         <img src="art/php.png" width="60"/>
         <img src="art/java.png" width="60"/>
