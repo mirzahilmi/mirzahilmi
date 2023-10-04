@@ -34,11 +34,11 @@
 | Distro | <img src="art/alpine.png" width="60"/><img src="art/ubuntu.png" width="60"/> |
 | Framework | <img src="art/mux.png" width="60"/><img src="art/laravel.png" width="60"/><img src="art/gin.png" width="60"/> |
 | Database | <img src="art/postgresql.png" width="60"/><img src="art/mysql.png" width="60"/> |
-
+||||
 
 ## 🧰 Tools
-[![Tools 1](https://skillicons.dev/icons?i=postman,vscode,idea,neovim,bash,powershell)](https://github.com/MirzaHilmi)
-[![Tools 2](https://skillicons.dev/icons?i=linux,md)](https://github.com/MirzaHilmi)
+<img src="art/vscode.png" width="60"/> <img src="art/postman.png" width="60"/> <img src="art/sqltools.png" width="60"/> <img src="art/windows-terminal.png" width="60"/>
+
 ### 📊 GitHub Stats
 <a href="https://github.com/MirzaHilmi/">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MirzaHilmi&theme=nord&show_icons=true&count_private=true"/>
