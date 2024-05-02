@@ -2,11 +2,11 @@
 
 ## ❓ About Me
 
-📚 &nbsp; Sophomore majoring in Information Technology at Faculty of Computer Science, University of Brawijaya<br>
-📌 &nbsp; Actively building software & integrating open-source LLMs for possible software solutions 
-🔭 &nbsp; Learning more about Distributed System, Cloud Computing and Software Engineering<br>
-📂 &nbsp; Most of my projects are available on [GitHub](https://github.com/MirzaHilmi?tab=repositories)<br>
-🏄‍♂️ &nbsp; In my free time, I enjoy swimming, adventure and exploring culinary delights!<br>
+📚 &nbsp; Sophomore majoring in Information Technology at Faculty of Computer Science, University of Brawijaya  
+⚙️ &nbsp; Actively building software & integrating open-source LLMs for possible software solutions 🤖  
+🔭 &nbsp; Learning more about Distributed System, Cloud Computing and Android Development  
+📂 &nbsp; Most of my projects are available on [GitHub](https://github.com/MirzaHilmi?tab=repositories) so check it out!  
+🏄‍♂️ &nbsp; In my free time, I enjoy swimming, adventure and exploring culinary delights!  
 
 ## 🔧 Technologies & Tools
 |||
