@@ -6,8 +6,7 @@
 ⚙️ &nbsp; Actively building software & integrating open-source LLMs for possible software solutions 🤖  
 🔭 &nbsp; Learning more about Distributed System, Cloud Computing and Android Development  
 📂 &nbsp; Most of my projects are available on [GitHub](https://github.com/MirzaHilmi?tab=repositories) so check it out!  
-🏄‍♂️ &nbsp; In my free time, I enjoy swimming, adventure and exploring culinary delights!  
-
+❄️ &nbsp; I run NixOS btw 
 ## 🔧 Technologies & Tools
 |||
 | --- | --- |
