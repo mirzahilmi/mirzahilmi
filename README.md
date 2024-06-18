@@ -5,8 +5,7 @@
 📚 &nbsp; Sophomore majoring in Information Technology at Faculty of Computer Science, University of Brawijaya  
 ⚙️ &nbsp; Actively building software & integrating open-source LLMs for possible software solutions 🤖  
 🔭 &nbsp; Learning more about Distributed System, Cloud Computing and Android Development  
-📂 &nbsp; Most of my projects are available on [GitHub](https://github.com/MirzaHilmi?tab=repositories) so check it out!  
-❄️ &nbsp; I run NixOS btw 
+❄️ &nbsp; I use Nix btw
 ## 🌐 Technology Set
 |||
 | --- | --- |
@@ -19,26 +18,20 @@
 | Service | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) |
 ||||
 
-## 📫 How to reach me?
-Send me a message on
+## 🤝 Connect with me!
 <a href="https://www.linkedin.com/in/mirzahilmi">
     <img height="15" width="20" src="https://cdn.simpleicons.org/linkedin/" />
     LinkedIn
 </a>
 |
-<a href="mailto:exquisitemirza@gmail.com">
-    <img height="15" width="20" src="https://cdn.simpleicons.org/gmail/" />
-    Gmail
+<a href="https://www.instagram.com/mirzaahilmi">
+    <img height="15" width="20" src="https://cdn.simpleicons.org/instagram/" />
+    Instagram
 </a>
 |
 <a href="https://discordapp.com/users/456276488963096596">
     <img height="15" width="20" src="https://cdn.simpleicons.org/discord/" />
     Discord
-</a>
-|
-<a href="https://www.instagram.com/mirzaahilmi">
-    <img height="15" width="20" src="https://cdn.simpleicons.org/instagram/" />
-    Instagram
 </a>
 
 ## 📈 GitHub Stats
