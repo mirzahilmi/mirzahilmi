@@ -4,7 +4,7 @@
 🔭 &nbsp; Learning more about Distributed System, Cloud Computing and Android Development  
 ❄️ &nbsp; I use Nix btw
 
-## Technologies that i used
+### Technologies that i used
 |||
 | --- | --- |
 | Language | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) |
@@ -16,7 +16,7 @@
 | Service | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) |
 ||||
 
-## 🤝 Connect with me!
+### 🤝 Connect with me!
 <a href="https://www.linkedin.com/in/mirzahilmi">
     <img height="15" width="20" src="https://cdn.simpleicons.org/linkedin/" />
     LinkedIn
@@ -32,7 +32,7 @@
     Discord
 </a>
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MirzaHilmi&theme=nord_dark)
 ![Streak Stats](https://streak-stats.demolab.com/?user=MirzaHilmi&theme=nord&sideNums=FFFFFF&currStreakNum=FFFFFF)  
 <p align="right">
