@@ -1,5 +1,5 @@
 ## $(whoami)
-📚 &nbsp; Sophomore majoring in Information Technology at Faculty of Computer Science, University of Brawijaya  
+📚 &nbsp; Junior pursuing a Bachelor's degree in Computer Science at University of Brawijaya  
 ⚙️ &nbsp; Actively building software & integrating open-source LLMs for possible software solutions 🤖  
 🔭 &nbsp; Learning more about Distributed System, Cloud Computing and Android Development  
 ❄️ &nbsp; I use NixOS btw
