@@ -2,7 +2,7 @@
 📚 &nbsp; Junior pursuing a Bachelor's degree in Computer Science at University of Brawijaya  
 ⚙️ &nbsp; Actively building software & integrating open-source LLMs for possible software solutions 🤖  
 🔭 &nbsp; Learning more about Distributed System, Cloud Computing and Android Development  
-❄️ &nbsp; I use NixOS btw
+❄️ &nbsp; Didn't i mention i daily drive neovim & NixOS btw?
 
 ### Technologies that i use
 |||
