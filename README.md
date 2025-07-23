@@ -25,8 +25,6 @@
 
 ### 📈 GitHub Stats
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MirzaHilmi&theme=nord_dark)
-![Streak Stats](https://streak-stats.demolab.com/?user=MirzaHilmi&theme=nord&sideNums=FFFFFF&currStreakNum=FFFFFF)  
-<p align="right">
-  👀 Visitors&nbsp;&nbsp;<br>
-  <img src="https://profile-counter.glitch.me/mirzahilmi/count.svg" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=mirzahilmi&theme=nord)
+
+![View Count](https://komarev.com/ghpvc/?username=mirzahilmi)
