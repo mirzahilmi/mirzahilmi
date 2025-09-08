@@ -1,5 +1,5 @@
 ## $(whoami)
-📚 &nbsp; Junior pursuing a Bachelor's degree in Computer Science at Universitas Brawijaya  
+📚 &nbsp; Computer Science undergraduate at Universitas Brawijaya  
 🧑‍🔧 &nbsp; Engineering something i interested in, primarily backend & infrastructure  
 🔭 &nbsp; Currently learning more about Software Engineering, Cloud Computing and Infrastructure  
 ❄️ &nbsp; Didn't i mention i daily drive Neovim & NixOS btw?
