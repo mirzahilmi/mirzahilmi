@@ -7,4 +7,5 @@ Hi there, I'm Mirza.
   .NET <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="20"/>,
   Spring <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="20"/>,
   and Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="20"/>
+- Loves on-premises, got Proxmox, and Raspberry-es on my arsenal. All kindly managed with Ansible, and Terraform
 - I use NixOS and neovim, btw.
