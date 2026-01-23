@@ -3,7 +3,7 @@ Hi there, I'm Mirza.
 - I enjoy writing
   Go <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="20"/>,
   and Rust 🦀
-- Also enjoy building applications backend with
+- I built applications backend with
   Spring <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="20"/>,
   .NET <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="20"/>,
   and Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="20"/>
