@@ -8,4 +8,5 @@ Hi there, I'm Mirza.
   .NET <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="20"/>,
   and Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="20"/>
 - Loves tinkering with NUC & Raspberry Pi for onprem. All kindly managed with Proxmox, Ansible, and Terraform
+- Currently practicing proven system performance, observability & reliability :shipit:
 - I use Nix everywhere, even on the phone.
