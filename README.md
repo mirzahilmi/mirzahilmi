@@ -9,5 +9,4 @@ Hi there, I'm Mirza.
   and Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="20"/>
 - Loves tinkering with onprem NUC & Raspberry Pi. All kindly managed with Proxmox, Ansible, and Terraform
 - Currently practicing proven system performance, observability & reliability :shipit:
-- Interested in HFT :eyes: but yet to explore
 - I use Nix everywhere, even on the phone.
