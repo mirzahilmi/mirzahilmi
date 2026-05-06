@@ -3,10 +3,9 @@ Hi there, I'm Mirza.
 - I enjoy writing
   Go <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="20"/>,
   and Rust 🦀
-- I built applications backend with
-  Spring <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="20"/>,
-  .NET <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="20"/>,
-  and Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="20"/>
-- Loves tinkering with onprem NUC & Raspberry Pi. All kindly managed with Proxmox, Ansible, and Terraform
-- Currently practicing proven system performance, observability & reliability :shipit:
-- I use Nix everywhere, even on the phone.
+- I built software with
+  React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20" />,
+  .NET <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="20" />,
+  and Spring <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="20" />
+- Currently learning how software behaves in production, simulated under controlled environment on my homelab 👀
+- I use Nix everywhere, even on the phone
