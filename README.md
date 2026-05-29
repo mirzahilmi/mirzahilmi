@@ -7,5 +7,5 @@ Hi there, I'm Mirza.
   React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20" />,
   .NET <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="20" />,
   and Spring <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="20" />
-- Currently learning how software behaves in production, simulated under controlled environment on my homelab 👀
+- Currently learning how software behaves in production using controlled environment
 - I use Nix everywhere, even on the phone
